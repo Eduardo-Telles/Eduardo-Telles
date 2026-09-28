@@ -53,16 +53,7 @@ Programa de terminal em **Python** para gerenciar clientes, serviços e agendame
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-## 🚀 Em breve
 
-Estou adicionando exercícios e projetos de cada linguagem que estudo:
-
-| Linguagem | Status |
-|:---------:|:------:|
-| 🐍 Python | 🔜 em breve |
-| ⚙️ C | 🔜 em breve |
-| 🟨 JavaScript | 🔜 em breve |
-| 🎨 HTML / CSS | 🔜 em breve |
 
 ## 📫 Vamos conversar?
 
