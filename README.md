@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Eduardo%20Telles&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Estudante%20%7C%20Student%20%7C%20Aspiring%20Developer&descAlignY=60&descSize=18" width="100%" alt="Banner Eduardo Telles" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=200&section=header&text=Eduardo%20Telles&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Estudante%20%7C%20Student%20%7C%20Aspiring%20Developer&descAlignY=60&descSize=18" width="100%" alt="Banner Eduardo Telles" />
 
 <div align="center">
 
 <a href="https://github.com/Eduardo-Telles">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=520&lines=Ol%C3%A1%2C+eu+sou+o+Eduardo;Aprendendo+C+e+JavaScript;Buscando+minha+primeira+oportunidade+em+tecnologia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=800&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Eduardo;Aprendendo+C+e+JavaScript;Buscando+minha+primeira+oportunidade+em+tecnologia" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -109,4 +109,4 @@ Open to conversations and opportunities. Reach me on [LinkedIn](https://www.link
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=100&section=footer" width="100%" alt="" />
